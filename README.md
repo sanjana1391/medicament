@@ -6,7 +6,7 @@ India continues to struggle with providing basic medical care for its citizens. 
 ## What it does
 System for prescribing drug in hospitals and its or its substitute availability in the medical shops of the area/city. E-consultation with registered doctors , online prescription , Check medicine availability and information related to them and mental health tracker.
 
-##Process
+## Process
 Auto sync with pharmacies inventory by linking drive and creating backup system . An Indian Medicine Database has been added . Pharmacy ownwers have to choose the medicine according to the availibility in their shops and can update it once a day to get a resonable accuracy.
 
 A review base system is indroduced on the website. The patient can read basic experience of doctors and and can rate and view them. This will instill a sense of trust in the patients as they share their personal information.
