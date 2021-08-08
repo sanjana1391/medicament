@@ -26,6 +26,7 @@ if(isset($_GET['delete'])){
 if ($_SERVER["REQUEST_METHOD"]=='POST'){
 if(isset($_POST['snoEdit'])){
         //upadte record
+        //here we can uodate
         $sno=$_POST["snoEdit"];
         $med=$_POST['medEdit'];
         $quantity=$_POST["quantityEdit"];
