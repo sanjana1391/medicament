@@ -11,6 +11,8 @@
 <meta name="GENERATOR" content="Evrsoft First Page">
 </head>
 <body>
+	<!-- pay file -->
+	<!-- paying file -->
 	<h1>Merchant Check Out Page</h1>
 	<pre>
 	</pre>
