@@ -56,7 +56,6 @@
     width: 100%;
 }
 /* .modal-header{
-  background:#28a745;
 } */
 
   </style>
