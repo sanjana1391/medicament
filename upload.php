@@ -630,6 +630,7 @@ body {
 
                                                         </div>
 <!-- Upload Area -->
+<!-- here we have uploaded things -->
 <div id="uploadArea" class="upload-area">
   <!-- Header -->
   <div class="upload-area__header">
