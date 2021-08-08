@@ -22,6 +22,7 @@
     <meta name="keywords" content="au theme template">
 
     <!-- Title Page-->
+    <!-- this is our title page -->
     <title>AGRONOMICS</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
@@ -147,7 +148,7 @@ body class="animsition">
             </nav>
         </header>
 
-        <!-- END HEADER MOBILE CODE-->
+        <!-- END HEADER MOBILE-->
 
         <!-- MENU SIDEBAR-->
         <aside class="menu-sidebar d-none d-lg-block">
