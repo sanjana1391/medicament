@@ -23,7 +23,8 @@
 		
 		$requestParamList['CHECKSUMHASH'] = $StatusCheckSum;
 
-		// Call the PG's getTxnStatusNew() function for verifying the transaction status.
+		// // Call the PG's getTxnStatusNew() function for verifying the transaction status.
+		// here we verify the text status
 		$responseParamList = getTxnStatusNew($requestParamList);
 	}
 
