@@ -147,7 +147,7 @@ body class="animsition">
             </nav>
         </header>
 
-        <!-- END HEADER MOBILE-->
+        <!-- END HEADER MOBILE CODE-->
 
         <!-- MENU SIDEBAR-->
         <aside class="menu-sidebar d-none d-lg-block">
