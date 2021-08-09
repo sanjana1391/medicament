@@ -13,7 +13,7 @@ User's can order the medicine and can pay through secured e -payment gateway.
 
 2. Provide him/her consultation with the doctors registered online . Their is a proper working system where the patients will share their information and medical history with the doctors of their choosing . The communication between the doctor and the patient will be confidential and no other doctor can view the information without users approval.
 
-##Features
+## Features
 
 1. By attaching the drive and implementing a backup system, you may automatically sync with the pharmacy's inventory. A database of medicine has been included. Pharmacy owners must choose the medicine based on what is available in their stores, and they can update it once a day to maintain a decent level of accuracy.
 
