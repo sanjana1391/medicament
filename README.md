@@ -6,11 +6,25 @@ The scarcity of medicine has intensified during these catastrophic times, result
 ## What it does
 System for prescribing drugs in hospitals and their substitutes' availability in local/city medical shops. E-consultation with certified doctors, online prescriptions, checking pharmaceutical availability and relevant information, and a mental health tracker are all available through this interactive website.
 ##Process
-By attaching the drive and implementing a backup system, you may automatically sync with the pharmacy's inventory. A database of medicine has been included. Pharmacy owners must choose the medicine based on what is available in their stores, and they can update it once a day to maintain a decent level of accuracy.
- On the website, a review mechanism is implemented. The patient can read about doctors' basic experiences, as well as rank and view them. As the patients reveal their personal information, this will develop a sense of trust in them.
+Users have to create their account. Then in the dashboard they can access various features :
+
+1. Search the medicine required . This website will provide him/her the medicine company  price , salts , availability in the nearby shops , and the substitutes of the particular medicine in a cost effective manner.
+User's can order the medicine and can pay through secured e -payment gateway.
+
+2. Provide him/her consultation with the doctors registered online . Their is a proper working system where the patients will share their information and medical history with the doctors of their choosing . The communication between the doctor and the patient will be confidential and no other doctor can view the information without users approval.
+
+##Features
+
+1. By attaching the drive and implementing a backup system, you may automatically sync with the pharmacy's inventory. A database of medicine has been included. Pharmacy owners must choose the medicine based on what is available in their stores, and they can update it once a day to maintain a decent level of accuracy.
+
+2. On the website, a review mechanism is implemented. The patient can read about doctors' basic experiences, as well as rank and view them. As the patients reveal their personal information, this will develop a sense of trust in them.
+
+3. This whole website is supported with multilinguistic API. Anybody can access the website in their native language.
+
+4. Geolocation API will track and give the information about availability of medicines through nearby shops and hospitals.
 
 ## How we built it
-We used HTML, CSS, and JavaScript for the frontend, and PHP and MySQL for the backend. Translation APIs, Distance Matrix APIs, and Geolocation APIs have all been used.
+We used HTML, CSS, and JavaScript for the frontend, and PHP and MySQL for the backend. Translation APIs, Distance Matrix APIs, Multilinguistic API and Geolocation APIs have all been used.
 ## Challenges we ran into
 To automatically sync each pharmacy's local database with the inventory on the website. To search an accurate medical database that has all of the necessary information, such as drugs, their alternatives, side effects, salts, prices, and companies.
 ## Accomplishments that we're proud of
