@@ -23,7 +23,24 @@ System for prescribing drugs in hospitals and their substitutes' availability in
 4. Geolocation API will track and give the information about availability of medicines through nearby shops and hospitals.
 
 ## How we built it
-We used HTML, CSS, and JavaScript for the frontend, and PHP and MySQL for the backend. Translation APIs, Distance Matrix APIs, Multilinguistic API and Geolocation APIs have all been used.
+Technology Stack 
+
+### FRONTEND :
+1. HTML
+2. CSS
+3.JAVASCRIPT
+
+### BACKEND
+1.PHP
+
+### DATABASE
+1.MYSQL
+
+### API'S
+1.Translation APIs
+2. Distance Matrix API
+3. Multilinguistic API 
+4.Geolocation API
 
 ## Challenges we ran into
 To automatically sync each pharmacy's local database with the inventory on the website. To search an accurate medical database that has all of the necessary information, such as drugs, their alternatives, side effects, salts, prices, and companies.
