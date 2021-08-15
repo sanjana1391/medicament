@@ -8,7 +8,7 @@ System for prescribing drugs in hospitals and their substitutes' availability in
 
 ## Process
 
-1. Users have to create their account. Then in the dashboard they can access various features :
+Users have to create their account. Then in the dashboard they can access various features :
 
 2. Search the medicine required . This website will provide him/her the medicine company price , salts , availability in the nearby shops , and the substitutes of the particular medicine in a cost effective manner. User's can order the medicine and can pay through secured e -payment gateway.
 
@@ -53,4 +53,4 @@ We had to learn several languages in order to implement the idea and add new fea
 We learned a variety of abilities, including collaboration and teamwork. As we outsourced every duty of the hackathon , from the first features to the final structure , we learned the importance of working as part of a team to successfully make the website which will cater to today's needs.
 
 ## What's next for Medicament
-Prescription verification using ML & AI , Health tracker that will include BP , weight , fasting sugar and BMI index , Nutrition Chart
+Prescription verification using ML & AI , Health tracker that will include BP , weight , fasting sugar and BMI index , Nutrition Chart . 
