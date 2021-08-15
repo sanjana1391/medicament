@@ -5,7 +5,7 @@ The scarcity of medicine has intensified during these catastrophic times, result
 ## What it does
 System for prescribing drugs in hospitals and their substitutes' availability in local/city medical shops. E-consultation with certified doctors, online prescriptions, checking pharmaceutical availability and relevant information, and a mental health tracker are all available through this interactive website. 
 
-## Process
+## Process-
 
 1. Users have to create their account. Then in the dashboard they can access various features :
 
